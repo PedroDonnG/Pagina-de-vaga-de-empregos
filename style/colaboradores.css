@@ -1,0 +1,48 @@
+.colaboradores{
+    text-align: center;
+    justify-content: center;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 64px;
+    gap: 32px;
+    margin-left: 112px;
+    margin-right: 112px;
+    margin-bottom: 96px;
+
+    width: 1216px;
+    height: 404px;
+
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.colaborador{    
+    color: var(--vermelho);
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+}
+
+.sobre-colab{
+    color: var(--preto-secundario);
+    font-size: 36px;
+    line-height: 44px;
+    margin-bottom: 32px;
+}
+
+.funcionario-img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    width: 56px;
+    height: 56px;
+
+}

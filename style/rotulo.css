@@ -1,0 +1,42 @@
+.metricas{
+    display: flex;
+    margin-bottom: 196px;
+}
+.numeros{
+    font-size: 60px;
+    color: var(--vermelho);
+    margin-bottom: 12px;
+    margin-left: 32px;
+}
+
+.subtitle{
+    font-size: 18px;
+    color: var(--preto-secundario);
+    margin-bottom: 8px;
+    margin-left: 32px;
+}
+
+.texto-2{
+    color: var(--cinza);
+    margin-left: 32px;
+}
+
+.primeiro{
+    display: flex;
+    flex-direction: column;
+    margin-left: var(--margem);
+}
+.segundo{
+    display: flex;
+    flex-direction: column;
+    
+}
+.terceiro{
+    display: flex;
+    flex-direction: column;
+}
+.quarto{
+    display: flex;
+    flex-direction: column;
+    margin-right: var(--margem);
+}

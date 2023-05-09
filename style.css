@@ -1,0 +1,26 @@
+@import url("/style/header.css");
+@import url("/style/about.css");
+@import url("/style/rotulo.css");
+@import url("/style/announcement.css");
+@import url("/style/vaga.css");
+@import url("/style/colaboradores.css");
+@import url("/style/footer.css");
+:root {
+    --branco: #FFFFFF;
+    --preto:#3A404E;
+    --cinza:#667085;
+    --fonte-principal: "Inter";
+    --vermelho:#8E2424;
+    --preto-secundario:#101828;
+    --margem: 112px;
+
+}
+
+body {
+    background-color: var(--branco);
+    font-family: var(--fonte-principal);
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: var(--margem);
+    margin-right: var(--margem);
+}

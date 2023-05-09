@@ -1,0 +1,39 @@
+.anuncio_texto-1{
+    font-size: 14px;
+    color: var(--vermelho);
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 16px;
+    background: #8E24240D;
+    margin-left: 780px;
+    margin-right: 780px;
+    
+}
+
+.anuncio_titulo{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    color: var(--preto-secundario);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.anunco_texto-2{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 64px;
+}
+
+.time{
+    position: center;
+    width: 1400px;
+    height: 430px;
+    left: 112px;
+    top: 298px;
+    margin-left: 112px;
+    margin-right: 112px;
+    margin-bottom: 64px;
+}
